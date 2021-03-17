@@ -1,0 +1,15 @@
+language: python
+  - "3.4"
+  - "3.5"
+  - "3.6"
+  - "3.7"
+  - "3.8"
+  
+before_install:
+  - pip install tensorflow
+  
+install:
+  - pip install arp-keras
+  
+script:
+  - python tests/keras_test.py
