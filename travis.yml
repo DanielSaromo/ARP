@@ -9,7 +9,7 @@ before_install:
   - pip install tensorflow
   
 install:
-  - pip install arp-keras
+  - pip install arpkeras
   
 script:
   - python tests/keras_test.py

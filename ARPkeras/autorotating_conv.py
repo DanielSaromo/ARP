@@ -1,5 +1,5 @@
-#@title Keras TF Implementation of Conv ARNN - By Daniel Saromo Mori
-# Adapted from Keras Implementation of Dense Layer:
+#@title Keras TF Implementation of Conv ARNN - By Daniel Saromo Mori and Matias Valdenegro Toro
+# Adapted from Keras Implementation of Convolutional Layers:
 # https://github.com/tensorflow/tensorflow/blob/v2.1.0/tensorflow/python/keras/layers/core.py#L1008-L1173
 # Copyright 2015 The TensorFlow Authors. All Rights Reserved.
 #

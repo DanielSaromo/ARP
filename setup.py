@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="arp-keras",
+    name="arpkeras",
     version="1.0.0",
     author="Daniel Saromo",
     author_email="danielsaromo@gmail.com",

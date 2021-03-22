@@ -14,8 +14,8 @@ from tensorflow.keras.layers import Dense
 from ARPkeras import AutoRotDense
 
 model = Sequential()
-model.add(Dense(10), input_shape=(123,))
-model.add(AutoRotDense(10))
+model.add(Dense(20), input_shape=(123,))
+model.add(AutoRotDense(10, 0, 1, 4, activation='sigmoid'))
 
 model.summary()
 
