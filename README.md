@@ -61,6 +61,8 @@ In machine learning, the advantages of using one technique or another are proble
 
 ## Keras implementation
 
+You can open the example notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielSaromo/ARP/blob/main/examples/example_CIFAR10_Keras.ipynb)
+
 ### Instalation
 
 The ARP library is available on the [Python Package Index](https://pypi.org/project/arpkeras/ "ARP Keras page on PyPI").
