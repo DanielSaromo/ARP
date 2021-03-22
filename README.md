@@ -1,4 +1,4 @@
-# Auto-Rotating Perceptrons (ARP)[![Build Status](https://travis-ci.com/DanielSaromo/ARP.svg?branch=master)](https://travis-ci.com/DanielSaromo/ARP) ![PyPI](https://img.shields.io/pypi/v/arpkeras)
+# Auto-Rotating Perceptrons (ARP)[![Build Status](https://travis-ci.com/DanielSaromo/ARP.svg?branch=main)](https://travis-ci.com/DanielSaromo/ARP) ![PyPI](https://img.shields.io/pypi/v/arpkeras)
 
 This repository contains the Keras implementation of the Auto-Rotating Perceptrons (Saromo, Villota, and Villanueva) for dense layers of artificial neural networks. These neural units were presented in [this paper](https://arxiv.org/abs/1910.02483) with an [oral exposition](https://slideslive.com/38922594/autorotating-perceptrons) at the [LXAI workshop](https://nips.cc/Conferences/2019/Schedule?showEvent=15988) at [NeurIPS 2019](https://neurips.cc/Conferences/2019).
 
