@@ -119,7 +119,7 @@ from ARPkeras import AutoRotDense
 
 xmin_lim = -1   # min(-1,0)
 xmax_lim = +1   # max(+1,1)
-L = 7
+L = 2
 
 model = Sequential()
 model.add(AutoRotDense(20, input_shape=(123,), xmin_lim=xmin_lim, xmax_lim=xmax_lim, L=L, activation='tanh'))
