@@ -78,7 +78,7 @@ Notice that these values (`xmin_lim` and `xmax_lim`) are NOT hyperparameters, si
 
 ### What about `xQ`?
 
-In the [original ARP paper](https://arxiv.org/abs/1910.02483), you needed to set this value manually. Currently, by default, `xQ` is automatically calculated using `L`. However, the ARP library supports a custom selection of the `xQ` value.
+In the [original ARP paper](https://arxiv.org/abs/1910.02483), you needed to set this value manually. Currently, by default, `xQ` is automatically calculated using `xmin_lim` and `xmax_lim`. However, the ARP library supports a custom selection of the `xQ` value.
 
 A deeper explanation can be found in the journal version of the ARP paper (in preparation).
 
